@@ -1,12 +1,28 @@
 # Invoice-Management-System
 
-Invoice Management System is a website created specifically for accessing Invoice of customers.
-This method the process businesses execute to invoice their clients for products and services they
-purchase, as well as to track invoices and make invoice payments to
-suppliers and vendors. In simple terms, invoice management
-involves dealing with both accounts receivable and accounts payable.
-_______________________________________________________________________________________________________________________________________________________________________
-________________________________________________________________________________________________________________________________________________________________________![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/a6b54c2b-02ef-4eb0-8990-676ae0ce9500)
+What is Ims?
+* An invoice management system is a software solution designed to automate the process of creating, sending, and managing invoices.
+
+What are the tech stack used?
+* Invoice Management System portal leveraging Java, JDBC (Java Database Connectivity), JSP (Java Server Pages), and MySQL technologies.
+
+Need of ims?
+* The project “INVOICE MANAGEMENT SYSTEM” is for accessing invoices of the SYSTEM USERs through our website.
+SYSTEM USERs can access their account and see/download invoice. End customers register online, login to account, and access their account using the website.
+This application eliminates the need for a student to physically go to their institutes and collect their result or decreases the institute’s office duty.
+
+Components of ims?
+* 1.Home Page Module: Displays statistical information such as user count, total invoices generated, and other
+relevant metrics. Fetches data from the backend database and renders it dynamically using JSP.
+2. Customer Management Module: Allows administrators to perform CRUD operations on customer information.
+Includes functionality for adding, viewing, updating, and deleting customer records.
+3. Product Management Module: Enables administrators to manage product information, including name,
+description, price, and quantity. Supports CRUD operations for product management.
+4. Invoice Generation Module: Facilitates the creation of new invoices by selecting products and customers.
+Integrates a calculator for manual bill calculation, if required.
+5. Tracks product popularity by recording purchases and generating insights for administrators.
+6. Download Feature: Allows administrators to download generated invoices in PDF or other formats for recordkeeping and analysis.
+
 ![Screenshot (232)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/dd54e253-7f84-4914-a98b-14da6f34f18f)
 ![Screenshot (233)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/e248b439-383a-4d50-9134-9f2b6397bde3)
 ![Screenshot (234)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/cde6e7fa-bf0a-4aff-9b4d-a0ed19fb9573)
@@ -21,5 +37,5 @@ ________________________________________________________________________________
 ![Screenshot (243)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/f6b7c80e-b49d-45ee-a0df-dcd8fbb6d3f7)
 ![Screenshot (244)](https://github.com/Subhomoy21/Invoice-Management-System/assets/104619658/dd087d2f-4f1e-477a-9471-7866d80737c5)
 
-_______________________________________________________________________________________________________________________________________________________________________
-_______________________________________________________________________________________________________________________________________________________________________
+SIRJANA JOURNAL[ISSN:2455-1058] VOLUME 54 ISSUE 3 [visit journal](https://github.com/Subhomoy21/Invoice-Management-System/files/15269859/ims.paper.research.pdf)
+
